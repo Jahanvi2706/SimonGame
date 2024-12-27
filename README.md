@@ -1,1 +1,1 @@
-# SimonGame
+The Simon Game is a game of memory whereby a person has to repeat a color sequence shown by the computer. The game starts with just one color and increases its color sequence after each successive repetition by the player without making a mistake. If he makes a mistake, it ends the game.
